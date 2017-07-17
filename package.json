@@ -1,0 +1,11 @@
+{
+  "name": "node-elm",
+  "version": "1.0.0",
+  "description": "Elm tools in nodejs env",
+  "main": "index.js",
+  "author": "Jigar Gosar",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-cli": "6.24.1"
+  }
+}
